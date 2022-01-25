@@ -1,1 +1,2 @@
-blah blah blah
+git config --global user.email "chap0340@algonquinlive.com"
+  git config --global user.name "Daniel"
